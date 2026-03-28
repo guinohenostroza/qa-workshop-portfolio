@@ -3,29 +3,29 @@
 ## Charter
 (Define qué explorar y con qué propósito)
 
-##ÁREAS
+## ÁREAS
 (Contextualiza el entorno donde se ejecuta la prueba)
 
-##INICIO
+## INICIO
 (Registra cuándo comienza la sesión – control de tiempo).
 
-##TESTER
+## TESTER
 (Identifica quién realizó la exploración.)
 
-##DESGLOSE DE TAREAS
+## DESGLOSE DE TAREAS
 (Muestra cómo se distribuyó el tiempo durante la sesión)
 
-##ARCHIVOS DE DATOS
+## ARCHIVOS DE DATOS
 (Indica qué datos se usaron en las pruebas).
 
-##NOTAS DE PRUEBA
+## NOTAS DE PRUEBA
 (Captura lo que se exploró, observó y aprendió del sistema):
 
-##LISTA DE RIESGOS 
+## LISTA DE RIESGOS 
 (Resume posibles problemas importantes detectados o inferidos)
 
-##DEFECTOS (BUGS) 
+## DEFECTOS (BUGS) 
 (Documenta fallos concretos encontrados en el producto.)
 
-##INCIDENTES (ISSUES) 
+## INCIDENTES (ISSUES) 
 (Registra dudas, vacíos o problemas en el conocimiento del sistema )
